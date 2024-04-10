@@ -3,7 +3,7 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
   <br/>
-  - 🚀 Web developer with 5+ years of practical experience designing and building scalable, high-performance web applications<br/>
+  - 🚀 Web developer with 7+ years of practical experience designing and building scalable, high-performance web applications<br/>
   - 🔥 Proficient in front-end technologies like Vue.js, Nuxt.js, React as well as back-end technologies like Node.js and PHP<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
   - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
