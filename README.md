@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5300&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+👋+Welcome+to+My+Profile!;Principal+Software+Engineer+%7C+Full+Stack+Architect;Expert+in+Cloud%2C+AI%2C+and+E-Commerce+Solutions;Building+High-Performance+Shopify+and+Web+Applications;Driven+by+Clean+Code+and+Innovation" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
 ### About Me
 
 - 🚀 Senior Full-Stack Developer with **10+ years of experience** designing and building scalable, high-performance web applications.
@@ -54,77 +46,77 @@
 <table align="center">
   <tr>    
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=py" width="30" height="30" alt="py" />
+      <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="py" />
       <br>Python
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=django" width="30" height="30" alt="django" />
+      <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="django" />
       <br>Django
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=flask" width="30" height="30" alt="flask" />
+      <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="flask" />
       <br>Flask
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="30" height="30" alt="fastapi" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="fastapi" />
       <br>FastAPI
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=js" width="30" height="30" alt="js" />
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="js" />
       <br>JavaScript
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=ts" width="30" height="30" alt="ts" />
+      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="ts" />
       <br>TypeScript
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="30" height="30" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="50" height="50" />
       <br>React
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="30" height="30" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="50" height="50" />
       <br>Next.js
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
       <br>TailwindCSS
     </td>         
   </tr>
   <tr>       
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Node" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node" />
       <br>Node.js
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="30" height="30" alt="NestJS" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS" />
       <br>NestJS
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=supabase" width="30" height="30" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase" />
       <br>Supabase
     </td>             
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=graphql" width="30" height="30" alt="GraphQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="GraphQL" />
       <br>GraphQL
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=firebase" width="30" height="30" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=docker" width="30" height="30" alt="docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="docker" />
       <br>Docker
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="aws" />
+      <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="aws" />
       <br>AWS
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=azure" width="30" height="30" alt="azure" />
+      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="azure" />
       <br>Azure
     </td>
     <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="30" height="30" alt="kubernetes" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="kubernetes" />
       <br>Kubernetes
     </td>       
   </tr>
